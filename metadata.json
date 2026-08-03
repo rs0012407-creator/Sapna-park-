@@ -1,0 +1,6 @@
+{
+  "name": "Sapana Park",
+  "description": "Sapana Park Housing Society App - Comprehensive resident portal for maintenance bills, complaints, community notices, and Goa Housing Society compliance documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
